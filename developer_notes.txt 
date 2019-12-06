@@ -1,0 +1,13 @@
+Build
+
+1. Install node/npm - e.g. brew install npm
+2. Install typescript: npm install -g typescript
+
+VS Code
+Execute Run Build Task (⇧⌘B) from the global Terminal menu
+tsc: build or tsc: watch
+
+
+CVS
+To test the extension, a command line CVS is needed
+brew install cvs
